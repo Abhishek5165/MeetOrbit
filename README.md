@@ -33,6 +33,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ![Responsive Meet-orbit Desktop Demo](https://github.com/Abhishek5165/MeetOrbit/blob/master/demo/C.png)
 
+### 🥉 Email Reminder -
+
+![Responsive Meet-orbit Desktop Demo](https://github.com/Abhishek5165/MeetOrbit/blob/master/demo/D.png)
+
 
 ## Getting Started
 
