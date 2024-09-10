@@ -1,0 +1,1 @@
+export default['#EB3678','#13C38B','#9F3CFE','#FF555D','#399918']

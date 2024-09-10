@@ -1,0 +1,49 @@
+.navbar{
+position: relative;
+top: -70px;
+}
+.navlink:hover{
+cursor: pointer;
+color: #FB773C;
+}
+.log{
+    background-color: #201658;
+}
+.main-div{
+position: relative;
+top: -50px;
+}
+.signup-link{
+color: #3559E0;
+position: relative;
+top: 0px;
+}
+.btn{
+    background-color: #492E87;
+}
+span{
+    color: red;
+    position: relative;
+    top: 5px;
+}
+.link{
+color: blue;
+}
+.about{
+    color: #FB773C;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.para{
+    font-size: 17px;
+    line-height: 24px;
+    color: #000000;
+}
+.info{
+    color: coral;
+    position: relative;
+    top: -2px;
+}
+.litems{
+    font-weight: 500;
+}
